@@ -1,9 +1,9 @@
 bloodyfingers keyboard firmware
 ======================
-modified from gh60 firmware by komar007 and Geekhack community.
+modified by ian klatzco from gh60 firmware by komar007 and Geekhack community.
 
 ## Build
-Move to this directory then just run `make` like:
+cd to this directory then:
 
     $ make
 
