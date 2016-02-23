@@ -1,4 +1,4 @@
-This is casually borrowed from [bishboria's repo][https://github.com/bishboria/ErgoDox].
+This is casually borrowed from [bishboria's repo][1].
 
 # Updating keyboard layout
 
@@ -9,3 +9,5 @@ This is casually borrowed from [bishboria's repo][https://github.com/bishboria/E
 * Reboot
 
 The file https://github.com/bishboria/ergodox-firmware/blob/master/src/keyboard/ergodox/layout/custom-colemak.c has the raw layout of the keys.
+
+[1]: https://github.com/bishboria/ErgoDox
