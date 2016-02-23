@@ -1,3 +1,5 @@
+This is casually borrowed from [bishboria's repo][https://github.com/bishboria/ErgoDox].
+
 # Updating keyboard layout
 
 * Run teensy.app from teensy.dmg
