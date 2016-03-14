@@ -34,9 +34,7 @@ extern const uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS];
 extern const uint16_t fn_actions[];
 
 
-/* GH60 keymap definition macro
- * K2C, K31 and  K3C are extra keys for ISO
- */ //should work for jacqui np, this is left hand only
+//should work for jacqui np, this is left hand only
 #define KEYMAP( \
     K00, K01, K02, K03, K04, K05, K06, \
     K10, K11, K12, K13, K14, K15, K16, \

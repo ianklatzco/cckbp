@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Ian Klatzco
 #define PRODUCT         bloody thumbs
-#define DESCRIPTION     left i cut myself while making this
+#define DESCRIPTION     left hand and i cut myself while making this
 
 //left
 //col:  0   1   2   3   4   5   6   7   8   9

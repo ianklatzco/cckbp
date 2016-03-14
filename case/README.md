@@ -1,0 +1,1 @@
+12 cut spacers.svg contains designs for enough spacers for two keyboards on a single 12"x24" sheet, with maximized compactness. I recommend acrylic glue to put them together. For one keyboard, delete half of the spacers and drop top/teensy level/bottom plates from `all.svg`. You may need multiple sheets to do a single board, or maybe a 12" by 12" instead.
