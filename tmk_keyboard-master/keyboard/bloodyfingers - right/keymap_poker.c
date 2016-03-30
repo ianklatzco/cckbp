@@ -1,13 +1,13 @@
 #include "keymap_common.h"
 
 const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    KEYMAP(  EQL,    6,    7,    8,    9,    0, BSPC, \
-             TAB,    F,    G,    C,    R,    L, SLSH, \
-                     D,    H,    T,    N,    S, MINS, \
-            LSFT,    B,    M,    W,    V,    Z, RSFT, \
-            CAPS, LALT, LGUI,    F, PAUS,             \
-               4, HOME,                               \
-             SPC,  BSPC,  SPC,                        \
+    KEYMAP( EQL,     6,    7,    8,    9,    0, RCTL, \
+            RBRC,    F,    G,    C,    R,    L, SLSH, \
+                     D,    H,    T,    N,    S,  ENT, \
+            MINS,    B,    M,    W,    V,    Z, RSFT, \
+            RCTL, LEFT, DOWN,   UP, RGHT,             \
+            PGUP, HOME,                               \
+            PGDN, BSPC,  SPC,                         \
             RGUI                                      \
         ),
 };
