@@ -1,0 +1,27 @@
+" for me this means: if using programmer's dvorak, then consider mapping the numbers on command mode to just be the numbers as opposed to the symbols which is default for insert/general kb usage.
+
+" use programmer dvorak because why not. map all the
+" punctuation in the number row (non-shifted) to send numbers in normal mode
+" since they're used so often, but in insert mode they will
+" be the punctuation. note that I use a slightly modified layout, so if
+" you c/p this it will not work the same with normal programmer dvorak.
+noremap [ 7
+noremap { 5
+noremap ( 3
+noremap + 1
+noremap = 9
+noremap ) 0
+noremap } 2
+noremap ] 4
+noremap * 6
+noremap ! 8
+noremap 7 [
+noremap 5 {
+noremap 1 +
+noremap 9 =
+noremap 0 )
+noremap 2 }
+noremap 4 ]
+noremap 6 *
+noremap 8 !
+
