@@ -2,7 +2,7 @@
 
 const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /*0: default layer */
-    KEYMAP( RBRC,    6,    7,    8,    9,    0,  FN1, \
+    KEYMAP( RBRC,    6,    7,    8,    9,    0,  ESC, \
              EQL,    F,    G,    C,    R,    L, SLSH, \
                      D,    H,    T,    N,    S,  ENT, \
             MINS,    B,    M,    W,    V,    Z, RSFT, \
