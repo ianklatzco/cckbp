@@ -8,7 +8,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
             LSFT, SCLN,    Q,    J,    K,    X,  GRV, \
             CAPS, LBRC, RBRC, LALT, LGUI,             \
                                            FN0, HOME, \
-                                     SPC,  ENT,  END, \
+                                     BSPC,  ENT,  END,\
                                                 LGUI  \
         ),
     /*1: FN key layer*/
