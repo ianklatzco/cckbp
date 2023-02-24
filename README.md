@@ -1,6 +1,12 @@
 #CCKBP
 A collaborative keyboard project done by some UIUC freshmen their freshman year. Custom Ergodoxes with Alps switches. Each of us did something slightly different.
 
+## compiling
+
+```
+sudo apt install gcc-avr dfu-programmer
+```
+
 ##Keyboards
  - Ian Klatzco: [tmk_keyboard-master/keyboard/bloodyfingers - left][1] and [right][2]. 
  - Jacqui Liang
